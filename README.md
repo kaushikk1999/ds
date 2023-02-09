@@ -1,0 +1,11 @@
+pandas==1.5.3
+matplotlib==3.6.3
+matplotlib-inline==0.1.6
+seaborn==0.12.2
+plotly==5.13.0
+sklearn==0.0.post1
+scikit-learn==0.23.2
+scikit-plot==0.3.7
+pycaret==2.3.10
+numpy==1.20.3
+streamlit=1.17.0
