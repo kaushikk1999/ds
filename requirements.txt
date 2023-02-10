@@ -1,2 +1,6 @@
+
+pycaret
 streamlit
-scikit-learn==0.23.2
+fastparquet
+pandas
+numpy
